@@ -3,6 +3,10 @@
     "url": "http://www.freebytesoftware.com/download/fbzpack.exe",
     "hash": "bed91b5af2a42834202ac12d55404db9397c09748a548452c14138655bcf7e67",
     "bin": "fbzpack.exe",
+    "env_add_path": "2.3.1",
+    "env_set": {
+        "FBZIP" : "$dir"
+    },
     "shortcuts":  [
         ["fbzpack.exe" , "fbzip"]
     ]
