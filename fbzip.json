@@ -5,7 +5,7 @@
     "hash": "bed91b5af2a42834202ac12d55404db9397c09748a548452c14138655bcf7e67",
     "bin": "FBZip.exe",
     "installer": {
-        "args": ["/S", "/D=$dir"]
+        "keep": true
     },
     "env_add_path": "fbzip",
     "env_set": {
