@@ -8,7 +8,6 @@
         "FBZIP" : "$dir"
     },
     "installer": {
-        "args": ["/S", "D=$dir"]
-
+        "args": ["/S", "D='app\\fbzip\\2.3.1'"]
     }
 }
